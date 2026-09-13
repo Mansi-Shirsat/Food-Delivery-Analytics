@@ -1,0 +1,36 @@
+Restaurant_ID,Restaurant name,Cuisine,Address,rtng,Opening_Year,col1
+R001,  Spice Garden,Indian,"Ahmedabad, Gujarat",3.4,2016,A
+R002,Biryani House,Chinese,"Mumbai, Maharashtra",3.2,2016,
+,,,,,,
+R003,Pizza Palace,Italian,"Surat, Gujarat",4.1,2024,
+R004, Burger Barn ,Fast Food,"Nagpur, Maharashtra",4.4,2012,
+R004, Burger Barn ,Fast Food,"Nagpur, Maharashtra",4.4,2012,
+R005,  Dragon Wok,Mexican,"Mumbai, Maharashtra",4.7,2016,
+R006,Pasta Point,Indian,"Surat, Gujarat",3.7,2012,
+R007, Taco Town ,Chinese,"Mumbai, Maharashtra",4.2,2012,
+R008, The Curry Leaf ,Fast Food,"Patna, Bihar",4.6,2013,X
+R009,Mumbai Masala  ,Indian,"Hyderabad, Telangana",3.9,2013,
+R010,  Sizzle & Grill,Italian,"Chennai, Tamil Nadu",4.9,2011,
+R010,  Sizzle & Grill,Italian,"Chennai, Tamil Nadu",4.9,2011,
+R011, Noodle Nation ,Mexican,"Bhopal, Madhya Pradesh",4.7,2022,
+R012,Cheesy Bites,Chinese,"Indore, Madhya Pradesh",4.2,2026,
+R013,Delhi Darbar,Indian,"Bangalore, Karnataka",3.4,2025,
+,,,,,,
+R014,Wok & Roll,Fast Food,"Kolkata, West Bengal",4.5,2022,
+R015,The Pizza Hub,Italian,"Pune, Maharashtra",4.9,2011,
+R016,  Kebab King,Indian,"Pune, Maharashtra",4,2011,
+R017,  Chole Bhature Corner,Chinese,"Surat, Gujarat",3.7,2023,F
+R018, Italian Breeze ,Italian,"Mumbai, Maharashtra",3.5,2026,
+R019,Mexican Hat,Mexican,"Patna, Bihar",4.1,2025,
+R020, Chow King ,Fast Food,"Pune, Maharashtra",4.3,2013,
+R021,Tandoori Nights,Indian,"Delhi, Delhi",3.6,2012,
+R022,Burger Republic,Chinese,"Pune, Maharashtra",4.7,2021,
+R023,Pasta House,Italian,"Patna, Bihar",4.6,2023,
+R024,Pune Kitchen,Indian,"Nagpur, Maharashtra",3,2025,
+R025,The Dosa Place,Fast Food,"Delhi, Delhi",4.5,2010,AA
+,,,,,,
+R026,Grill Station  ,Mexican,"Surat, Gujarat",3,2012,
+R027,  Hakka Express,Chinese,"Lucknow, Uttar Pradesh",4.8,2013,
+R028,Hot Rolls,Indian,"Bhopal, Madhya Pradesh",3.8,2025,
+R029,Paneer Paradise,Italian,"Mumbai, Maharashtra",4.8,2014,
+R030,Southern Spice  ,Fast Food,"Bangalore, Karnataka",3.5,2012,Z
