@@ -1,6 +1,6 @@
-🍔 Food Delivery Analytics | Power BI
+# 🍔 Food Delivery Analytics | Power BI
 
-A Data Analytics project built using Power BI to analyze food delivery data and identify insights across revenue, orders, restaurants, food items, payments, customer ratings, and delivery operations.
+A Data Analytics project created using Power BI to analyze food delivery data across revenue, orders, food items, restaurants, payments, ratings, and delivery performance.
 
 ## 📊 Dashboard Preview
 
@@ -18,7 +18,7 @@ A Data Analytics project built using Power BI to analyze food delivery data and 
 
 ## 🎯 Objective
 
-To transform food delivery data into an interactive dashboard that helps understand business performance and identify areas for improvement.
+To analyze food delivery data and create an interactive Power BI dashboard that shows business performance and highlights areas that need attention.
 
 ## 🛠️ Tools Used
 
@@ -26,17 +26,16 @@ To transform food delivery data into an interactive dashboard that helps underst
 - Power Query
 - DAX
 - Data Modeling
-- Data Visualization
 
 ## 🔄 What I Did
 
-- Understood the business requirements and datasets
-- Prepared and cleaned data using Power Query
-- Built the data model
-- Created DAX measures and calculated columns
-- Designed a 4-page interactive Power BI dashboard
-- Analyzed revenue, orders, restaurants, food items, payments, ratings, and delivery performance
-- Generated business insights and recommendations
+- Understood the business requirements
+- Prepared and cleaned the data using Power Query
+- Built the data model in Power BI
+- Created DAX measures for key KPIs
+- Designed a 4-page interactive dashboard
+- Analyzed revenue, orders, food items, restaurants, payments, ratings, and delivery performance
+- Created insights and recommendations based on the analysis
 
 ## 📈 Key KPIs
 
@@ -54,9 +53,10 @@ To transform food delivery data into an interactive dashboard that helps underst
 - Average Order Value: **₹800.17**
 - Delivery Success Rate: **30.0%**
 - Average Delivery Time: **57.9 minutes**
-- Pizza was the top revenue-generating food item at approximately **₹8.1K**
-- June recorded the highest monthly revenue at approximately **₹5.4K**
-- The dashboard showed a high cancellation rate, highlighting an important operational area for investigation
+- **Pizza** generated the highest food revenue at approximately **₹8.1K**
+- **June** had the highest monthly revenue at approximately **₹5.4K**
+- **Card** payments contributed **47% of revenue**
+- **53.3% of orders were cancelled**, showing an important area for operational improvement
 
 ## 📂 Project Files
 
@@ -65,20 +65,10 @@ To transform food delivery data into an interactive dashboard that helps underst
 - `Order_detail.csv` — Order data
 - `Restaurants_Details.csv` — Restaurant data
 
+## 👤 About
 
-
-
-
-
-
-
-
-
-
-
-
-
+**Mansi Shirsat**
 
 Aspiring Data Analyst
 
-**Skills:** Power BI | SQL | Excel | Python
+**Project Focus:** Power BI | Data Analysis
